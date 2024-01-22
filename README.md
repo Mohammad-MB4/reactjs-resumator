@@ -1,2 +1,2 @@
-# resumator-react
-Description
+# Resumator - Resume Creator Using AI - React
+## In Progress...
